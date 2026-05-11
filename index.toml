@@ -3381,9 +3381,8 @@ hash = "932f0b08f73967909d5df35da084b2366967a4396ae459346d71c23aa0f68a67"
 metafile = true
 
 [[files]]
-file = "mods/alcocraft.pw.toml"
-hash = "ff2d70210e4cb90bb9dcb6abdf256c0c98d28ece142013ed3a7d6ba12bfc4c65"
-metafile = true
+file = "mods/alcocraftplus-1.20-2.1.0-fabric.jar"
+hash = "d551037847b838c36c77bb3c6fa08be71d25d13765376e82d36dd2fd646eb43b"
 
 [[files]]
 file = "mods/almanac-lib.pw.toml"
@@ -3635,9 +3634,8 @@ hash = "5aabb586165bbefa0b1d490b3be5da2de728daa6cc492133a7760d18892192bc"
 metafile = true
 
 [[files]]
-file = "mods/cool-rain.pw.toml"
-hash = "88b58c4e4e92897b3e664f485ac18cc488e272af4783d506d602f40be508b2cb"
-metafile = true
+file = "mods/coolrain-1.4.0-1.20.1.jar"
+hash = "2becb88c266dc9e1d341b6f92667d002c02affca396e942ccf6c7996c2c891a9"
 
 [[files]]
 file = "mods/copper-age-backport.pw.toml"
@@ -3834,9 +3832,8 @@ hash = "91c6e8c871efc0803610b43118033dc34eca037b76349214fb1c192d8a4ccf93"
 metafile = true
 
 [[files]]
-file = "mods/easy-npc.pw.toml"
-hash = "46a5d624cd3d873e650e9719b58789c1e408a764e951449bbf43bb5518014f14"
-metafile = true
+file = "mods/easy_npc-fabric-1.20.1-6.14.0.jar"
+hash = "8a47c28e985aabef2befe01009c2f0dfa5b941d10df1fadc1a1eb7c55bfd166c"
 
 [[files]]
 file = "mods/eating-animation-fabric.pw.toml"
