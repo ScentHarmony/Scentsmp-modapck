@@ -1,0 +1,13 @@
+name = "Fairy Lights (Fabric)"
+filename = "fairylights-1.1.4_fabric.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "6de36088818fa945b027450a83edbe593381e715"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7909505
+project-id = 1510773
