@@ -3315,6 +3315,10 @@ file = "mods/Decorative Lamps-1.20.1-1.7.4.jar"
 hash = "1942ffb7ee58102347a916fa4b261b64b52e7e7049e08c7559b68984f7de3ca1"
 
 [[files]]
+file = "mods/FrozenLib-1.9.3-mc1.20.1.jar"
+hash = "2fb831d9da0f5ef0dcefc36412f3784081e2070a984aefc076010800c7b622b6"
+
+[[files]]
 file = "mods/JustEnoughProfessions-fabric-1.20.1-3.0.1.jar"
 hash = "46ef17aa59fa4098c6ce0e499a61db4fb8aa7e1f66d45669c92fd33cfc65e90b"
 
@@ -3345,6 +3349,10 @@ hash = "97f323cb0ae3b23b99abae5f8195e0a4ac34376801c0dc91574301b1ed5e38c1"
 [[files]]
 file = "mods/StorageDrawers-fabric-1.20.1-12.14.3.jar"
 hash = "bdd39641d1d86e0e04acaa17aa6e764c158c09be45b15f4aa5a9be43f207e1a1"
+
+[[files]]
+file = "mods/SubtleEffects-fabric-1.20.1-1.14.3.jar"
+hash = "53aa7bcf73dc766bf7b543d3555d04e107f05d93802a19138607b69fbaf60c58"
 
 [[files]]
 file = "mods/TerraBlender-fabric-1.20.1-3.0.1.10.jar"
@@ -3629,18 +3637,16 @@ hash = "e7513fdc9b93652c928a5af59e9dc6a5b21dfe5200fe78883a6fa56d3cdefa1f"
 metafile = true
 
 [[files]]
-file = "mods/convenient-name-tags.pw.toml"
-hash = "5aabb586165bbefa0b1d490b3be5da2de728daa6cc492133a7760d18892192bc"
-metafile = true
+file = "mods/convenientnametags-1.1.0.jar"
+hash = "76e652d5625d033565479807ac688ae7e880c4e52dfabf6a6b80646c34a5dc04"
 
 [[files]]
 file = "mods/coolrain-1.4.0-1.20.1.jar"
 hash = "2becb88c266dc9e1d341b6f92667d002c02affca396e942ccf6c7996c2c891a9"
 
 [[files]]
-file = "mods/copper-age-backport.pw.toml"
-hash = "9057c84b04835ab6112135d95dc1e27097d84764a07e3b364d31b7a78fdb886b"
-metafile = true
+file = "mods/copperagebackport-fabric-1.20.1-0.1.4.jar"
+hash = "7ca1a33cd6b715224ad827b2fd3b4cd3520c22cd8eb8102eb7ba7f321acf8df3"
 
 [[files]]
 file = "mods/copycats.pw.toml"
@@ -3703,11 +3709,6 @@ hash = "196fe316fa86c8fa2be90d227932a132dd037d54b961e1b98f7cdc0a161d5623"
 metafile = true
 
 [[files]]
-file = "mods/create-oxidized.pw.toml"
-hash = "1bc091bf541009ee6b8201f2195fe3bf42aabe12bdc26e069537c44f3a207692"
-metafile = true
-
-[[files]]
 file = "mods/create-steam-n-rails.pw.toml"
 hash = "351dc141c4a4bfa57ebab4c7afccf8ce0ba428e8c3d88a57afa87928ba3196f8"
 metafile = true
@@ -3716,6 +3717,10 @@ metafile = true
 file = "mods/create-transmission.pw.toml"
 hash = "d8725ee8916f1b307931391b64716dbf62fad10d02096573f9dfa7aaafe812d3"
 metafile = true
+
+[[files]]
+file = "mods/create_oxidized-0.1.1+1.20.1.jar"
+hash = "a8a79b1f9286df17003c686c0d1f00d8f1467d9f72d0067de03191cc588d9907"
 
 [[files]]
 file = "mods/creativecore.pw.toml"
@@ -3856,9 +3861,8 @@ hash = "a463035ddfa901370ec7293103a6405ed5f476f4a2a7468cc3552f07686bd510"
 metafile = true
 
 [[files]]
-file = "mods/enchanter-fix.pw.toml"
-hash = "1a2e3cf346e891e3a203c623985b78c9b77f94ce08aefa05a0d1b69ab0d1382f"
-metafile = true
+file = "mods/enchanter_fix-1.8+mc1.20-1.21.11.jar"
+hash = "fbf5eed72b801c2f859c918c76cd62be4650b22e3ee11d5e6e7f9829f2938cff"
 
 [[files]]
 file = "mods/enchanting-infuser.pw.toml"
@@ -3881,9 +3885,8 @@ hash = "de33a63b6e7182dc3229d77c95c118cdc2ad64321ae4fc16d16a23a3b34e746b"
 metafile = true
 
 [[files]]
-file = "mods/entityculling.pw.toml"
-hash = "4e3e31c9ac318718535b6b6d97f2c191140124abefdd72311516ae23c4b4aaef"
-metafile = true
+file = "mods/entityculling-fabric-1.10.1-mc1.20.1.jar"
+hash = "e70eef203991df0af102d7b06ffce73ac68ac321ae5dbdd6b3e028a1c9d05c0d"
 
 [[files]]
 file = "mods/euphoria-patches.pw.toml"
@@ -3960,14 +3963,12 @@ hash = "6548c2d1a001662c7b2a68fbbd9cb4aa5fe5ce1d8c069c458a58abf36d6b3b2e"
 metafile = true
 
 [[files]]
-file = "mods/fastboot.pw.toml"
-hash = "ed29698f8fe776f73fdb5e3ecf5ad77e2079f4d044adb0a04ee6d7df46ae9fbe"
-metafile = true
+file = "mods/fastboot-1.20.x-1.2fabric.jar"
+hash = "883e531ab6bba35d80ca5168995305f2d1a7da71f0e673c83bcd9b294b6f1d28"
 
 [[files]]
-file = "mods/faster-random.pw.toml"
-hash = "99b30274301843e8c1c2f8144dd63e95d19f05d576065bbddff851f02def2da4"
-metafile = true
+file = "mods/fasterrandom-5.1.0.jar"
+hash = "40b326e9c98610b54be67751e618193e671cc907240d94a57085259b10cedf08"
 
 [[files]]
 file = "mods/fastquit.pw.toml"
@@ -4024,9 +4025,8 @@ hash = "dd1539f11f40afadc12fdb01ee79c8cdb927528575ec23951978c0ff7c94cffe"
 metafile = true
 
 [[files]]
-file = "mods/frozenlib.pw.toml"
-hash = "5372b7626e4561e7a6bc5666c63c1dda90e3ceec727edebc4c96a584dd2ba70f"
-metafile = true
+file = "mods/fsb-interop-1.3.6+mc1.20.1-build.50.jar"
+hash = "17bec23a0a6d67bcaa4d056cd7b8938ba1c00f40b095cfa39c570a3f3b0d8b46"
 
 [[files]]
 file = "mods/ftb-essentials.pw.toml"
@@ -4193,9 +4193,8 @@ hash = "cb3f5e1d8ce8d5c2bd594cc3d36508e6ec14532402db535e2d7f136d8836d312"
 metafile = true
 
 [[files]]
-file = "mods/jump-over-fences-forge.pw.toml"
-hash = "fa82b4c7cf2b2b3a3a3d0b5afbd624d8036f6201a9c1854f3ba3c0c8feb254f9"
-metafile = true
+file = "mods/jumpoverfences-fabric-1.20.1-1.3.1.jar"
+hash = "02463bd3622c533419169c227dcf5854862f227d07fc67a1befda5ccd16d8a20"
 
 [[files]]
 file = "mods/just-outdoor-stuffs.pw.toml"
@@ -4552,23 +4551,17 @@ file = "mods/noisium-fabric-2.3.0+mc1.20-1.20.1.jar"
 hash = "266ef6f28ee69f91acce6ca991121c21f2944e76f366475778347d90d33b491d"
 
 [[files]]
-file = "mods/not-enough-animations.pw.toml"
-hash = "b0c10c03bdf964b69ac03fb04410690a8840d4f620322d47be5b009512e4379d"
-metafile = true
-
-[[files]]
 file = "mods/not-enough-crashes.pw.toml"
 hash = "afa1c6325fe35c637050429e50cce6ac39c9b1d5153bac97f506e24b6027ef01"
 metafile = true
 
 [[files]]
-file = "mods/notenoughrecipebook.pw.toml"
-hash = "e3e89a045e3608fef1bb6c3e27dc290e793bad6ecb5c026305eea5b8742cc233"
-metafile = true
+file = "mods/notenoughanimations-fabric-1.11.3-mc1.20.1.jar"
+hash = "e9b2fccc300734cdb33f35d81e73f4d7f619316692f929232001851e50ec2136"
 
 [[files]]
-file = "mods/nuit-interop.pw.toml"
-hash = "766c3a11d5e7e2ada4efac897891282bc85bc1febf2672f7d7b4b9d7bf2a6ac1"
+file = "mods/notenoughrecipebook.pw.toml"
+hash = "e3e89a045e3608fef1bb6c3e27dc290e793bad6ecb5c026305eea5b8742cc233"
 metafile = true
 
 [[files]]
@@ -4597,9 +4590,8 @@ hash = "ecd0d07c891c8fbe57efb369eafebd6885ad712b51764aae36669b057b854180"
 metafile = true
 
 [[files]]
-file = "mods/omnilib.pw.toml"
-hash = "8ff86280c5584b4814b4f6b094cd050a89ecca477e72ad1e5327bbb8f962f5f0"
-metafile = true
+file = "mods/omnilib-0.1.4+1.20.1.jar"
+hash = "01050cf5fbc116c51f107d91e1765d8ef15156b6df8a610aa005cfc803707dd7"
 
 [[files]]
 file = "mods/open-loader.pw.toml"
@@ -4808,9 +4800,8 @@ hash = "c61c46384d1939d5d956f8600f62159e4a578fa55ac1966b658291c2e7b3af31"
 metafile = true
 
 [[files]]
-file = "mods/secure-crops.pw.toml"
-hash = "3b55095e1103ab34ecb88ca5c4c4dc167ef994062a746ffe50425aef3fe439f1"
-metafile = true
+file = "mods/securecrops-2.0.0+1.20.x.jar"
+hash = "27cf6e57367f5815a9b1c5ed18d32fd985420321937b44ca937e445ff06cfb8d"
 
 [[files]]
 file = "mods/selene.pw.toml"
@@ -4863,9 +4854,8 @@ hash = "11e2e4821470399e36976d82f7656807d2ca4fb4244f5a7117040db17e893b08"
 metafile = true
 
 [[files]]
-file = "mods/skin-layers-3d.pw.toml"
-hash = "912a3eb92652af6e32be35b874c3aa0a8a952f175b55a7317f1dfa23151d6011"
-metafile = true
+file = "mods/skinlayers3d-fabric-1.11.1-mc1.20.1.jar"
+hash = "a3b7d719eabfda8255904143662586a2a6dbcf6c226f75405e0f7fea7a40532b"
 
 [[files]]
 file = "mods/slice-and-dice.pw.toml"
@@ -4937,9 +4927,8 @@ hash = "0bec1a2983404d43f32753cd193a620585457e85e624cabf2467afa0796cec0b"
 metafile = true
 
 [[files]]
-file = "mods/spawn-mod.pw.toml"
-hash = "3e9fef93b6fce4e167ee44899ec18048970582e5ad4e6f91eba4dcd9eee2b0a4"
-metafile = true
+file = "mods/spawn-1.0.3-fabric.jar"
+hash = "4105e9cc177ffee6ab3a0be74724d920e69bd8c1631346df5b7931024713dad1"
 
 [[files]]
 file = "mods/spelunkery.pw.toml"
@@ -4978,11 +4967,6 @@ metafile = true
 [[files]]
 file = "mods/stutterfix.pw.toml"
 hash = "34cc1ae460ec3e34bb1565147cd9ce04539ece1a2b4af9f7339d4da9f64e6cf2"
-metafile = true
-
-[[files]]
-file = "mods/subtle-effects.pw.toml"
-hash = "97feaeaee149acb0ba50f51f597c2953b6e8ddc066e1786dfeb767b197a29b96"
 metafile = true
 
 [[files]]
@@ -12894,16 +12878,16 @@ file = "shaderpacks/MID ComplementaryReimagined_r5.7.1 + EuphoriaPatches_1.8.6/s
 hash = "1ff2a3529f60f4cdf66e2e8ac09d90813ce479ef340c18440deeccf845141ff3"
 
 [[files]]
-file = "shaderpacks/Nostalgia_v5.1.zip.txt"
-hash = "87eba86fe71b95391b708f0241308c506b6fb82c7f7aeb081ebd9691e7a9b234"
+file = "shaderpacks/Nostalgia_v5.1.zip"
+hash = "7d7211af2fac6d9b3c7fcbaad7a47f1a612450376d14383088908831c18b6cc8"
 
 [[files]]
 file = "shaderpacks/Potato MakeUp-UltraFast-9.1c.zip.txt"
 hash = "a79099d429891046a32e54a02901e8fbe6cfe5ff1bcbd08d508381feba56825e"
 
 [[files]]
-file = "shaderpacks/PotatoShaders_v1.0d.zip.txt"
-hash = "4f3bf3ab8549c1a1ff99d16957c0d329c16af2f0efceffc5711e8a946120c58d"
+file = "shaderpacks/PotatoShaders_v1.0d.zip"
+hash = "55aa21562dbc2860fd466719908437a8bc22ad358a673fb3c119e4bcdf1616af"
 
 [[files]]
 file = "shaderpacks/superDuperVanilla.zip.txt"
