@@ -5242,16 +5242,6 @@ hash = "7e608850c8a923fada4ea9b69f200e19d71d08a6ab8b7f1abf27d77e3731b3f2"
 metafile = true
 
 [[files]]
-file = "nostalgia-shader.pw.toml"
-hash = "d233ca09a78872f9508907bf71551b0067540785121e5d5b5f24c477ebe06c31"
-metafile = true
-
-[[files]]
-file = "potato-shaders.pw.toml"
-hash = "7b7529037bc035bc88b5aa5e815d4aad1c2ed4abf8365621ceb224a966bc198f"
-metafile = true
-
-[[files]]
 file = "resourcepacks/Homestead GUI/assets/appleskin/appleskin.png"
 hash = "d3472a89d2cb5b653a3b23749535a94239fd783ca46778d1a3057716d21a76fe"
 
