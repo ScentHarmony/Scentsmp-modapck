@@ -3298,6 +3298,110 @@ file = "config/zoomify.json"
 hash = "82caee9b1f532332c798ee216c9a9ba5857c35e58afacba44946d9264fc05b36"
 
 [[files]]
+file = "kubejs/README.txt"
+hash = "989f3737ae4621b8ff6730bce4cbeeee756921e7e510e0c281c8a350501d98af"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/amd_drivers.png"
+hash = "1f97a8df3258d47c4930c088f7335a80e776c670bbe77d391a1ce0f3f4641062"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/nvidia_graphics_card.png"
+hash = "365ea9fa3d2c6481efce02ae73324dd6a4c97d1f539dfa90f56b39272e7b15b9"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/obsidian_upgrade_smithing_template.png"
+hash = "2b9a1ee018a07b221226a40c41af328c9003501009ee51246aa932fdc415a69d"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/ram.png"
+hash = "f26dd49f932cb1c32d7bac45de53ec1d77f96173658fb2ffcff3badb94f826d4"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/shiitake_mushroom_soup.png"
+hash = "9b1ab11b68d4d37b1182de094f5eda47ef02e2cde7e7c76a97500a7b469be54b"
+
+[[files]]
+file = "kubejs/client_scripts/example.js"
+hash = "152019ed6e0410a82805a95ea10f1ad1a17beaf2b50864d89b8fa9d172129ac7"
+
+[[files]]
+file = "kubejs/config/client.properties"
+hash = "10c796dad0e37f594a5a8faf64f93a4c78f838f84632d248bbeff982b980f3c9"
+
+[[files]]
+file = "kubejs/config/common.properties"
+hash = "a2d93fd4fe37ace988afd9fb21cf95fdbcc138424060f262fb29654744866baf"
+
+[[files]]
+file = "kubejs/server_scripts/amethyst.js"
+hash = "e7e98d1778363e6200959a113cfd62a5f0a2bfd8b4c18aa6b95cd868e750a8e2"
+
+[[files]]
+file = "kubejs/server_scripts/cluster_recipes.js"
+hash = "fb705c517bddfbaed94033430c665aa1d0c50e4a5bebf7ee05b8c927337a8687"
+
+[[files]]
+file = "kubejs/server_scripts/copper_nugget.js"
+hash = "4fc329485333d65b2400052de80a8782f0a2a27d7246885d48b83315c91417fe"
+
+[[files]]
+file = "kubejs/server_scripts/flour.js"
+hash = "d37b0f74bdb57db810c54adb9b710bfc8e84c2495fe9805654b90d70b2ce8e71"
+
+[[files]]
+file = "kubejs/server_scripts/furnace_fix.js"
+hash = "88fd2ed247e6d8dc32834335e198b261baf0fcd6d0ed0aac159fee80ab75e0de"
+
+[[files]]
+file = "kubejs/server_scripts/hops_based_beer.js"
+hash = "d3433fe3a605391187e16000ff57a30b417970ac8cedf824117c32823a7eaac5"
+
+[[files]]
+file = "kubejs/server_scripts/resin.js"
+hash = "111eb712101e160e96a7d6ff8d3125f6c0df3909428fad53eb26401d0c36e599"
+
+[[files]]
+file = "kubejs/server_scripts/supplementaries_presents.js"
+hash = "e61d958bdb14bc82858ef1d8d396690b49a603ad37324f91047e656a997a86ef"
+
+[[files]]
+file = "kubejs/server_scripts/suppsquared_daub.js"
+hash = "905ffab7c842d8849798e612df7d99180ca338b912dd7f62735b811ea5563c83"
+
+[[files]]
+file = "kubejs/startup_scripts/amd_drivers.js"
+hash = "1421c6ca0cf25a4e14b2edc4259e291670d13c804cc52c58eb061b4147a5eaf9"
+
+[[files]]
+file = "kubejs/startup_scripts/homestead.js"
+hash = "c67ab0e999cfed3749e4123773f89980accdb19bb2a6b378dc6b6e30dbcddeb7"
+
+[[files]]
+file = "kubejs/startup_scripts/lyn.js"
+hash = "8362a3b9f43177fe4244071bb4ecab459a66149f9a58c97df885e3ddeaf462c6"
+
+[[files]]
+file = "kubejs/startup_scripts/mortar.js"
+hash = "433562d748a21933545ba1c6c4a4caec36e7c4b24575451d185371fc9e5effc2"
+
+[[files]]
+file = "kubejs/startup_scripts/nvidia_graphics_card.js"
+hash = "efa59ecd7f797d6e5bc12e04c42a76850ae0906a38d51c08cbc806cfda4faee2"
+
+[[files]]
+file = "kubejs/startup_scripts/obsidian_template.js"
+hash = "53c0b57d86d54b55fd8c9ce0fe58e1443b4ce1037c8bdfd14a24e5b2cb40d0bd"
+
+[[files]]
+file = "kubejs/startup_scripts/ram.js"
+hash = "d04c91c0a4f86ef4fc72387110abe617a66769fe27e8606ac541fb73d2de13c9"
+
+[[files]]
+file = "kubejs/startup_scripts/shiitake_mushroom_soup.js"
+hash = "46f7c9b0eb9a4fde4461184ad9b649e25998178cc396e66d11e5be0b1ffd4626"
+
+[[files]]
 file = "makeup-ultra-fast-shader.pw.toml"
 hash = "e95855af3624c35880d8d7a0c63285899cbbdd7adc5356cce6f72b2666bd35ef"
 metafile = true
