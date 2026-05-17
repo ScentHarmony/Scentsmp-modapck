@@ -4918,6 +4918,10 @@ hash = "dbd791db79d78b24b2b3161fc66cd99ee2549a61ac3b4ea13b8300670d9a4a4c"
 metafile = true
 
 [[files]]
+file = "mods/shearablevines-1.1.0+1.20.jar"
+hash = "5af5af2381a268d25365cc5e524090bc16a4932ee5998d87637eb3d8959fa920"
+
+[[files]]
 file = "mods/show-me-what-you-got.pw.toml"
 hash = "baf6966f04cac626678b4ebe59029795f9c83a05ccc85496dffd1b8ba225fee9"
 metafile = true
